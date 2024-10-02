@@ -63,6 +63,4 @@ This chart displays the importance of each feature in the Decision Tree Regresso
 
 Feel free to fork this project and submit pull requests with any improvements or suggestions.
 
-## License
 
-[Include your chosen license here]
