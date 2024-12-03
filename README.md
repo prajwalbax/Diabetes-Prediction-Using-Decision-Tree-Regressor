@@ -51,7 +51,7 @@ This chart displays the importance of each feature in the Decision Tree Regresso
 ## How to Run
 
 1. Clone this repository
-2. Install the required dependencies: `pip install -r requirements.txt`
+2. Install the required dependencies
 3. Run the main script: `python diabetes_prediction.py`
 
 ## Future Improvements
